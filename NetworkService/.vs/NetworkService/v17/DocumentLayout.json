@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\views\\measurementgraphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\views\\measurementgraphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\viewmodel\\measurementgraphviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\viewmodel\\measurementgraphviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\helpers\\graphpointforui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\helpers\\graphpointforui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\views\\networkdisplayview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\views\\networkdisplayview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\views\\networkentitiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\views\\networkentitiesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|c:\\users\\bulic\\onedrive\\desktop\\dajana hci\\hci\\hci\\networkservice\\networkservice\\viewmodel\\networkdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE2C93C-D3CE-4614-9394-158338AD45C1}|NetworkService\\NetworkService.csproj|solutionrelative:networkservice\\viewmodel\\networkdisplayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeasurementGraphViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\ViewModel\\MeasurementGraphViewModel.cs",
+              "RelativeDocumentMoniker": "NetworkService\\ViewModel\\MeasurementGraphViewModel.cs",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\ViewModel\\MeasurementGraphViewModel.cs*",
+              "RelativeToolTip": "NetworkService\\ViewModel\\MeasurementGraphViewModel.cs*",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:21:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphPointForUI.cs",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Helpers\\GraphPointForUI.cs",
+              "RelativeDocumentMoniker": "NetworkService\\Helpers\\GraphPointForUI.cs",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Helpers\\GraphPointForUI.cs*",
+              "RelativeToolTip": "NetworkService\\Helpers\\GraphPointForUI.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:20:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NetworkService\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\MainWindow.xaml",
+              "RelativeToolTip": "NetworkService\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T01:01:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeasurementGraphView.xaml",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\MeasurementGraphView.xaml",
+              "RelativeDocumentMoniker": "NetworkService\\Views\\MeasurementGraphView.xaml",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\MeasurementGraphView.xaml*",
+              "RelativeToolTip": "NetworkService\\Views\\MeasurementGraphView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T00:39:29.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkEntitiesView.xaml",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "RelativeDocumentMoniker": "NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "RelativeToolTip": "NetworkService\\Views\\NetworkEntitiesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T00:25:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkDisplayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\ViewModel\\NetworkDisplayViewModel.cs",
+              "RelativeDocumentMoniker": "NetworkService\\ViewModel\\NetworkDisplayViewModel.cs",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\ViewModel\\NetworkDisplayViewModel.cs",
+              "RelativeToolTip": "NetworkService\\ViewModel\\NetworkDisplayViewModel.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAOIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:24:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkDisplayView.xaml",
+              "DocumentMoniker": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\NetworkDisplayView.xaml",
+              "RelativeDocumentMoniker": "NetworkService\\Views\\NetworkDisplayView.xaml",
+              "ToolTip": "C:\\Users\\bulic\\OneDrive\\Desktop\\Dajana HCI\\HCI\\HCI\\NetworkService\\NetworkService\\Views\\NetworkDisplayView.xaml",
+              "RelativeToolTip": "NetworkService\\Views\\NetworkDisplayView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T00:12:12.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

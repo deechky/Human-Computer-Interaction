@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="NetworkService.Views.MeasurementGraphView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:NetworkService.Views"
+             xmlns:viewModel="clr-namespace:NetworkService.ViewModel"
+             xmlns:data="clr-namespace:NetworkService.Model"
+             xmlns:helpers="clr-namespace:NetworkService.Helpers"
+             mc:Ignorable="d"
+             d:DesignHeight="750" d:DesignWidth="1400">
+
+    <UserControl.InputBindings>
+        <KeyBinding Command="{Binding HelpCommand}" Modifiers="Ctrl" Key="H"/>
+        <KeyBinding Command="{Binding ShowCommand}" Modifiers="Ctrl" Key="S"/>
+        <KeyBinding Command="{Binding ToggleToolTipsCommand}" Modifiers="Ctrl" Key="T"/>
+    </UserControl.InputBindings>
+
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type data:Entitie}">
+        </DataTemplate>
+        <helpers:RadiusToDiameterConverter x:Key="RadiusToDiameterConverter"/>
+        <helpers:RadiusToTopConverter x:Key="RadiusToTopConverter"/>
+    </UserControl.Resources>
+
+    <Grid Background="LightBlue" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- title -->
+        <TextBlock Grid.Column="1"
+                   HorizontalAlignment="Center"
+                   Text="Graph"
+                   FontSize="40"
+                   Margin="0,30,0,0"
+                   VerticalAlignment="Top"
+                   Foreground="Brown"
+                   FontWeight="Bold"/>
+
+        <!-- Control Panel -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20">
+            <Label Content="Entity ID:" FontSize="20" Foreground="Brown" FontWeight="Bold"/>
+            <ComboBox ItemsSource="{Binding ComboBoxData}"
+                      SelectedValue="{Binding SelectedMeasurementId, UpdateSourceTrigger=PropertyChanged}"
+                      Width="200" Height="35" Margin="0,10,0,0"
+                      ToolTipService.IsEnabled="{Binding ToolTipsBool}"
+                      ToolTip="Izaberite ID entiteta za prikaz na grafiku"/>
+            <Button Background="Brown"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Content="Show"
+                    Width="200" Height="35" Margin="0,20,0,0"
+                    Command="{Binding ShowCommand}"
+                    Cursor="Hand"
+                    ToolTipService.IsEnabled="{Binding ToolTipsBool}"
+                    ToolTip="Prikazuje graf za izabrani entitet"/>
+        </StackPanel>
+
+        <!-- Graph -->
+        <Canvas Width="500" Height="300" Grid.Row="1" Grid.Column="1" Background="White">
+
+            <!-- Horizontalne linije -->
+            <Line X1="0" Y1="50" X2="500" Y2="50" Stroke="Gray" StrokeThickness="1" StrokeDashArray="4 2"/>
+            <Line X1="0" Y1="150" X2="500" Y2="150" Stroke="Gray" StrokeThickness="1" StrokeDashArray="4 2"/>
+            <Line X1="0" Y1="250" X2="500" Y2="250" Stroke="Gray" StrokeThickness="1" StrokeDashArray="4 2"/>
+
+            <!-- Vertikalne linije -->
+            <Line X1="100" Y1="0" X2="100" Y2="300" Stroke="Gray" StrokeThickness="1"/>
+            <Line X1="200" Y1="0" X2="200" Y2="300" Stroke="Gray" StrokeThickness="1"/>
+            <Line X1="300" Y1="0" X2="300" Y2="300" Stroke="Gray" StrokeThickness="1"/>
+            <Line X1="400" Y1="0" X2="400" Y2="300" Stroke="Gray" StrokeThickness="1"/>
+            <Line X1="500" Y1="0" X2="500" Y2="300" Stroke="Gray" StrokeThickness="1"/>
+
+            <!-- Dinamične tačke -->
+            <ItemsControl ItemsSource="{Binding GraphPoints}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <Ellipse Width="{Binding Radius, Converter={StaticResource RadiusToDiameterConverter}}"
+                             Height="{Binding Radius, Converter={StaticResource RadiusToDiameterConverter}}"
+                             Fill="{Binding Brush}"
+                             Canvas.Left="{Binding XPosition}"
+                             Canvas.Top="{Binding Radius, Converter={StaticResource RadiusToTopConverter}}"/>
+                            <TextBlock Text="{Binding TimeLabel}"
+                               FontSize="12"
+                               Canvas.Left="{Binding XPosition}"
+                               Canvas.Top="280"
+                               HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Canvas>
+
+
+        <!-- Help -->
+        <StackPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20">
+            <Button Content="?" Foreground="Brown" FontSize="30" BorderThickness="0" Background="Transparent" Command="{Binding HelpCommand}"/>
+            <CheckBox Content="ToolTips ON/OFF" IsChecked="{Binding ToolTipsBool}" Margin="0,10,0,0" FontSize="14" Foreground="Purple"/>
+            
+        </StackPanel>
+        <TextBlock Text="{Binding Path=HelpText, Mode=OneWay}" Width="250" Height="300"
+                           TextWrapping="Wrap" FontSize="12"  Canvas.Top="-150" Grid.Column="2" Margin="109,184,108,183" Grid.Row="1"/>
+
+    </Grid>
+</UserControl>

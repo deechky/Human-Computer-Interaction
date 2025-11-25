@@ -1,0 +1,486 @@
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - slicno mom\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Malinovic Nemanja - CG5 T3 G2 P1\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Proba-ISS\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Documents\GitHub\HCI-PZ2\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Korisnik\Desktop\Rjesenje_2\HumanComputerInteraction-Project2-main\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\38162\Desktop\resenja\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Helena\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.SuggestedBindingRedirects.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_Content.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe.config
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe.config
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_Content.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\App.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

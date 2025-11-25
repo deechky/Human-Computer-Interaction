@@ -1,0 +1,123 @@
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Helena\Desktop\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\Rarovi\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Darie\Downloads\Milos Medic PR101-2019 HCI PZ2\Milos Medic PR101-2019 HCI PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\Projekti CV\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\ProjektiFTN\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Darie\Desktop\projektiDavid\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\bulic\Downloads\neki podaci\neki podaci\iuis\Stefan HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe.config
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\bulic\OneDrive\Desktop\Dajana HCI\HCI\HCI\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

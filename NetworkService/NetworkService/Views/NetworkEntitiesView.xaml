@@ -1,0 +1,168 @@
+﻿<UserControl x:Class="NetworkService.Views.NetworkEntitiesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NetworkService.Views"
+             xmlns:viewModel="clr-namespace:NetworkService.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1200">
+
+    <UserControl.DataContext>
+        <viewModel:NetworkEntitiesViewModel/>
+    </UserControl.DataContext>
+
+    <!-- Globalni stilovi -->
+    <UserControl.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="Brown"/>
+            <Setter Property="BorderBrush" Value="Brown"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="BorderBrush" Value="Brown"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="3"/>
+        </Style>
+
+        <Style TargetType="ComboBox">
+            <Setter Property="BorderBrush" Value="Brown"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="3"/>
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="Brown"/>
+            <Setter Property="BorderThickness" Value="2"/>
+        </Style>
+
+        <Style TargetType="DataGridRow">
+            <Setter Property="Background" Value="White"/>
+        </Style>
+    </UserControl.Resources>
+
+    <UserControl.InputBindings>
+        <KeyBinding Command="{Binding SearchCommand}" Modifiers="Ctrl" Key="P"/>
+        <KeyBinding Command="{Binding AddCommand}" Modifiers="Ctrl" Key="D"/>
+        <KeyBinding Command="{Binding UndoCommand}" Modifiers="Ctrl" Key="Z"/>
+        <KeyBinding Command="{Binding HelpCommand}" Modifiers="Ctrl" Key="H"/>
+        <KeyBinding Command="{Binding ToggleToolTipsCommand}" Modifiers="Ctrl" Key="T"/>
+    </UserControl.InputBindings>
+
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Pretraga i dugmad -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Orientation="Horizontal" Margin="10">
+                <Label Content="Pretraga po:"/>
+                <RadioButton Content="Naziv" IsChecked="{Binding SearchByName}" GroupName="SearchGroup"/>
+                <RadioButton Content="Tip" IsChecked="{Binding SearchByType}" GroupName="SearchGroup"/>
+                <TextBox Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Width="200"/>
+                <Button Content="Pretraga" Command="{Binding SearchCommand}"/>
+                <Button Content="Poništi" Command="{Binding CancelSearchCommand}"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 10 20 10">
+                <CheckBox Content="Uključi ToolTips" IsChecked="{Binding ToolTipsBool}" Margin="0 0 10 0" VerticalAlignment="Center"/>
+                <Button Content="⟲ Poništi" Command="{Binding UndoCommand}" ToolTipService.IsEnabled="{Binding ToolTipsBool}" ToolTip="CTRL+Z - Poništi poslednje brisanje" Margin="0 0 5 0" Padding="10 5" />
+                <Button Content="?" FontSize="20" BorderThickness="0" Background="Transparent" Command="{Binding HelpCommand}" Width="40" Height="40" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Glavni deo -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Tabela -->
+            <StackPanel Grid.Column="0" Margin="10">
+                <DataGrid x:Name="dgData" AutoGenerateColumns="False" 
+                          CanUserResizeColumns="False" CanUserSortColumns="False" CanUserReorderColumns="False" 
+                          SelectionMode ="Single" IsReadOnly="True"
+                          ItemsSource="{Binding PrikazEntiteta}" 
+                          SelectedItem="{Binding Izabran}"
+                          ToolTipService.IsEnabled="{Binding ToolTipsBool}" ToolTip="Prikaz postojećih entiteta">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="*"/>
+                        <DataGridTextColumn Header="NAZIV" Binding="{Binding Name}" Width="2*"/>
+                        <DataGridTextColumn Header="TIP" Binding="{Binding Type.Name}" Width="*"/>
+                        <!-- Ključna izmena: UpdateSourceTrigger i osvežavanje vrednosti -->
+                        <DataGridTextColumn Header="VREDNOST" 
+                                            Binding="{Binding Valued, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" 
+                                            Width="*"/>
+                       
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Content="Obriši" Command="{Binding DeleteCommand}" Margin="0,10,0,0" HorizontalAlignment="Center" Width="150" 
+                        ToolTipService.IsEnabled="{Binding ToolTipsBool}" ToolTip="Dugme za uklanjanje izabranog entiteta iz tabele"/>
+            </StackPanel>
+
+            <!-- Formular za dodavanje + help -->
+            <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto" Margin="10">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Pomocni panel -->
+                    <StackPanel>
+                        <TextBlock Text="{Binding Path=HelpText, Mode=OneWay}" Width="250" Height="300"
+                                   TextWrapping="Wrap" FontSize="12"  Canvas.Top="-150"/>
+                    </StackPanel>
+
+                    <!-- Formular za dodavanje -->
+                    <Border Grid.Row="1" BorderBrush="Brown" BorderThickness="2" CornerRadius="5" Padding="10" Background="White">
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <StackPanel Orientation="Vertical" Margin="0,0,10,0">
+                                    <Label Content="ID"/>
+                                    <TextBox Text="{Binding NoviEntitet.Id}" 
+                                             ToolTipService.IsEnabled="{Binding ToolTipsBool}" 
+                                             ToolTip="Unos ID-a za novi entitet koji mora biti jedinstven"/>
+                                    <Label Content="{Binding NoviEntitet.ValidationErrors[Id]}" Foreground="Red"/>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Vertical">
+                                    <Label Content="Naziv"/>
+                                    <TextBox Text="{Binding NoviEntitet.Name}" 
+                                             ToolTipService.IsEnabled="{Binding ToolTipsBool}" 
+                                             ToolTip="Unos naziva za novi entitet"/>
+                                    <Label Content="{Binding NoviEntitet.ValidationErrors[Name]}" Foreground="Red"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Vertical" Margin="0,5">
+                                <Label Content="Tip"/>
+                                <ComboBox ItemsSource="{Binding Tipovi}" DisplayMemberPath="Name" 
+                                          SelectedValue="{Binding NoviEntitet.Type}" 
+                                          ToolTipService.IsEnabled="{Binding ToolTipsBool}" 
+                                          ToolTip="Unos tipa za novi entitet"/>
+                                <Label Content="{Binding NoviEntitet.ValidationErrors[Type]}" Foreground="Red"/>
+                            </StackPanel>
+
+                            <Button Content="Dodaj" Command="{Binding AddCommand}" Margin="0,10" HorizontalAlignment="Center" Width="150" 
+                                    ToolTipService.IsEnabled="{Binding ToolTipsBool}" ToolTip="Dugme za dodavanje novog entiteta"/>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</UserControl>
